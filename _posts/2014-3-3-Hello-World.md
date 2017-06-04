@@ -1,6 +1,18 @@
 ---
+---
 layout: post
-title: Welcome!
+published: true
+mathjax: false
+featured: false
+comments: false
+title: Welocme with lil bit of flare
+description: ''
+headline: ''
+modified: ''
+categories: ''
+tags: ''
+imagefeature: ''
+---
 ---
 
 First test blogs to see if things are working fine.
