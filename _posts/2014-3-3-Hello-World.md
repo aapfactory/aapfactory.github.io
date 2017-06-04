@@ -1,5 +1,4 @@
 ---
----
 layout: post
 published: true
 mathjax: false
@@ -12,7 +11,6 @@ modified: ''
 categories: ''
 tags: ''
 imagefeature: ''
----
 ---
 
 First test blogs to see if things are working fine.
